@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Background: Light gray rounded square -->
+  <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#f0f0f0"/>
+
+  <!-- Camera icon (black) -->
+  <path d="M16 16h16v4h-16z" fill="#222"/>
+  <path d="M14 20h20v12h-20z" fill="#222"/>
+  <path d="M24 24a6 6 0 1 1 0-12 6 6 0 0 1 0 12z" fill="#222"/>
+  <path d="M24 24a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" fill="#fff"/>
+
+  <!-- Red diagonal slash (block symbol) -->
+  <line x1="8" y1="8" x2="40" y2="40" stroke="#e74c3c" stroke-width="4" stroke-linecap="round"/>
+</svg>
