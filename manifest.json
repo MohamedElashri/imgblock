@@ -5,6 +5,7 @@
   "description": "Removes all non-icon images from the current page",
   "author": "Mohamed Elashri",
   "homepage_url": "https://github.com/MohamedElashri/imgblock",
+  "license": "GPL-3.0",
   "developer": {
     "name": "Mohamed Elashri",
     "url": "https://melashri.net"
