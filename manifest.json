@@ -15,10 +15,11 @@
     "64": "icons/icon.svg",
     "128": "icons/icon.svg"    
   },
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "storage"],
   "browser_action": {
     "default_icon": "icons/icon.svg",
-    "default_title": "ImgBlock"
+    "default_title": "ImgBlock",
+    "default_popup": "popup.html"
   },
   "background": {
     "scripts": ["background.js"]
