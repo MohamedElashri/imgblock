@@ -1,5 +1,7 @@
 # ImgBlock
 
+[![Leave a tip on Ko-fi](https://img.shields.io/badge/Ko--fi-Leave%20a%20tip-913F51?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/melashri)
+
 This is a Firefox browser extension that removes all non-icon images from web pages with a single click. It have two simple buttons. One to remove all images and another to restore them. This is to help with reading some websites that have a lot of images that are not needed.
 
 
@@ -22,6 +24,12 @@ Download from [Firefox Add-ons](https://addons.mozilla.org) (Under Review)
 
 Click the `ImgBlock` icon in the browser toolbar then you will get two buttons. One to remove all images and another to restore them. The restore button will be clickable only if we have removed images before.
 
+
+## Support
+
+Tips are optional and help maintain the project.
+
+**[Leave a tip on Ko-fi](https://ko-fi.com/melashri)**
 
 ## License
 

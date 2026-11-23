@@ -51,6 +51,23 @@
       cursor: not-allowed;
     }
     
+    .support-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      color: #813548;
+      font-size: 13px;
+      font-weight: 600;
+      margin-top: 8px;
+      padding: 5px 8px;
+      border: 1px solid #bb8595;
+      border-radius: 5px;
+      background: #fff5f7;
+      text-decoration: none;
+    }
+
+    .support-link:hover { text-decoration: underline; }
+
     #status {
       margin-top: 10px;
       padding: 8px;
@@ -77,7 +94,8 @@
   <h3>ImgBlock</h3>
   <button id="blockBtn">Block Images</button>
   <button id="restoreBtn" disabled>Restore Images</button>
-  <div id="status"></div>
+  <div id="status" role="status"></div>
+  <footer aria-label="About ImgBlock"><a class="support-link" href="https://ko-fi.com/melashri" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">♥</span> Leave a tip on Ko-fi</a></footer>
   
   <script src="popup.js"></script>
 </body>
